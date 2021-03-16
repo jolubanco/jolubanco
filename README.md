@@ -1,6 +1,6 @@
 <h2> Hi, I'm João Lubanco!</h2>
-<img align='right' src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="230">
-<p><em>Mathematics at <a href="https://www.unifil.br/">Federal University of Parana</a>
+<img align='right' src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
+<p><em>Mathematics at <a href="https://www.ufpr.br/portalufpr/">Federal University of Parana</a>
 <p> I’m currently learning Java, Python, SQL and Data Science. </p>
   
 </em></p>
