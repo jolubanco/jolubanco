@@ -2,7 +2,9 @@
 <img align='right' src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
 <p><em>Mathematics at <a href="https://www.ufpr.br/portalufpr/">Federal University of Parana</a>
 <p> I’m currently learning Java, Python, SQL and Data Science. </p>
-  
+ <div>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-lubanco-644532203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div> 
 </em></p>
 
 <!---
