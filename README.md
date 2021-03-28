@@ -1,6 +1,17 @@
 <h2> Hi, I'm João Lubanco!</h2>
 <img align='right' src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
-<p><em>Mathematics at <a href="https://www.ufpr.br/portalufpr/">Federal University of Parana</a>
+<p><em>Mathematician by the <a href="https://www.ufpr.br/portalufpr/">Federal University of Parana</a>
+ <p>Software Engenieer at <a href="https://www.ecofood.com.br/">Ecofood</a></p>
+<p>Development of the Ecofood application backend, developing new features, analyzing data and data science.</p>
+<ul>
+<li>Language: Java 8, Python</li>
+<li>Frameworks: Spring Boot, Scikit-Learn</li>
+ <li>Database: MySQL</li>
+ <li>Cloud: AWS</li>
+ <li>Practices: Code Review</li>
+</ul>
+
+
 <p> I’m currently learning Java, Python, SQL and Data Science. </p>
  <div>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-lubanco-644532203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
