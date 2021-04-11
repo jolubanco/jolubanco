@@ -1,5 +1,6 @@
 <h2> Hi, I'm João Lubanco!</h2>
-<img align='right' src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
+<!--- <img align='right' src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230"> --> 
+<img align='right' src="https://media.giphy.com/media/VGcVZyreAU2UewDI81/giphy.gif" width="230">
 <p><em>Mathematician by the <a href="https://www.ufpr.br/portalufpr/">Federal University of Parana</a>
  <p>Software Enginieer at <a href="https://www.ecofood.com.br/">Ecofood</a></p>
 <p>Development of the Ecofood application backend, developing new features, analyzing data and data science.</p>
