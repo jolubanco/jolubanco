@@ -2,7 +2,7 @@
 <!--- <img align='right' src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230"> --> 
 <img align='right' src="https://media.giphy.com/media/VGcVZyreAU2UewDI81/giphy.gif" width="230">
 <p><em>Mathematician by the <a href="https://www.ufpr.br/portalufpr/">Federal University of Parana</a>
- <p>Java Software Enginieer at <a href="https://www.ecofood.com.br/">Renovretail</a></p>
+ <p>Java Software Enginieer at <a href="https://www.qintess.com/pt_br/sobre">Qintess</a></p>
 
 
 <p> I’m currently learning Java, Python, SQL and Data Science. </p>
